@@ -85,7 +85,7 @@ dependencies {
             ),
 
         )
-        segmentProgressView.invalidate()
+segmentProgressView.invalidate()
 ```
 
 
