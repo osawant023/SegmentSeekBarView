@@ -11,7 +11,7 @@
 
 [![](https://jitpack.io/v/osawant023/SegmentSeekBarView.svg)](https://jitpack.io/#osawant023/SegmentSeekBarView)
 
-To get started with KotStep in your Android Jetpack Compose project, 
+To get started with SegmentSeekBarView in your Android XML project, 
 Add it in your root `build.gradle` at the end of repositories:
 
 ```
